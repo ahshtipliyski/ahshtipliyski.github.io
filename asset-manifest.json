@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.867e8c2b.chunk.css",
-    "main.js": "/portfolio/static/js/main.e9f25d97.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e9f25d97.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.d9c6e8f4.chunk.css",
+    "main.js": "/portfolio/static/js/main.db2560e8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.db2560e8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.9878af44.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.9878af44.js.map",
-    "static/js/2.0a0cc019.chunk.js": "/portfolio/static/js/2.0a0cc019.chunk.js",
-    "static/js/2.0a0cc019.chunk.js.map": "/portfolio/static/js/2.0a0cc019.chunk.js.map",
+    "static/js/2.f4811a3e.chunk.js": "/portfolio/static/js/2.f4811a3e.chunk.js",
+    "static/js/2.f4811a3e.chunk.js.map": "/portfolio/static/js/2.f4811a3e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.dccf5bfa8e9392e0dbc43c14dbf22d95.js": "/portfolio/precache-manifest.dccf5bfa8e9392e0dbc43c14dbf22d95.js",
+    "precache-manifest.d6252aa2194631b794bb559e4daf6972.js": "/portfolio/precache-manifest.d6252aa2194631b794bb559e4daf6972.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.867e8c2b.chunk.css.map": "/portfolio/static/css/main.867e8c2b.chunk.css.map",
-    "static/js/2.0a0cc019.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0a0cc019.chunk.js.LICENSE.txt",
+    "static/css/main.d9c6e8f4.chunk.css.map": "/portfolio/static/css/main.d9c6e8f4.chunk.css.map",
+    "static/js/2.f4811a3e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f4811a3e.chunk.js.LICENSE.txt",
     "static/media/Projects.scss": "/portfolio/static/media/AvenirNextLTPro-Regular.67016125.otf",
     "static/media/bcblack.mp4": "/portfolio/static/media/bcblack.bfef1d6d.mp4",
     "static/media/brainFlix.png": "/portfolio/static/media/brainFlix.8db137f6.png",
+    "static/media/firebase.svg": "/portfolio/static/media/firebase.f9a6f1ca.svg",
     "static/media/inStock.png": "/portfolio/static/media/inStock.ee916ef1.png",
     "static/media/nutrition-planner.png": "/portfolio/static/media/nutrition-planner.03d862ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9878af44.js",
-    "static/js/2.0a0cc019.chunk.js",
-    "static/css/main.867e8c2b.chunk.css",
-    "static/js/main.e9f25d97.chunk.js"
+    "static/js/2.f4811a3e.chunk.js",
+    "static/css/main.d9c6e8f4.chunk.css",
+    "static/js/main.db2560e8.chunk.js"
   ]
 }
