@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03a579600c569347fd370b6d2ffae2cf",
+    "revision": "e7b61a042566bd73917d855678b45598",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7ffaa6de5237e2d247ce",
+    "revision": "273f857494d52eab3595",
     "url": "/portfolio/static/css/main.14a41b67.chunk.css"
   },
   {
-    "revision": "05607bc37270fa4b640d",
-    "url": "/portfolio/static/js/2.a96e3152.chunk.js"
+    "revision": "978e1fa61d65197e9461",
+    "url": "/portfolio/static/js/2.47c088b6.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/portfolio/static/js/2.a96e3152.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.47c088b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ffaa6de5237e2d247ce",
-    "url": "/portfolio/static/js/main.967104e1.chunk.js"
+    "revision": "273f857494d52eab3595",
+    "url": "/portfolio/static/js/main.25e4a884.chunk.js"
   },
   {
     "revision": "8e3a0f98456d7ef3c477",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6115501959b9b67ae28096b56ca1822d",
     "url": "/portfolio/static/media/BandSite.61155019.png"
+  },
+  {
+    "revision": "d60add3507ffe164150e3bdc2e36b347",
+    "url": "/portfolio/static/media/TravelSite.d60add35.png"
   },
   {
     "revision": "bfef1d6d956d796fe783ebf50dfb7a89",
