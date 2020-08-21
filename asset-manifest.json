@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.f9393854.chunk.css",
-    "main.js": "/static/js/main.38c9e831.chunk.js",
-    "main.js.map": "/static/js/main.38c9e831.chunk.js.map",
+    "main.js": "/static/js/main.33324ea5.chunk.js",
+    "main.js.map": "/static/js/main.33324ea5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.04cd0a50.js",
     "runtime-main.js.map": "/static/js/runtime-main.04cd0a50.js.map",
     "static/js/2.06695034.chunk.js": "/static/js/2.06695034.chunk.js",
     "static/js/2.06695034.chunk.js.map": "/static/js/2.06695034.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e48ac382f358a18308086511822646a2.js": "/precache-manifest.e48ac382f358a18308086511822646a2.js",
+    "precache-manifest.8753d9c3f900b8dfced98ce811eb6671.js": "/precache-manifest.8753d9c3f900b8dfced98ce811eb6671.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f9393854.chunk.css.map": "/static/css/main.f9393854.chunk.css.map",
     "static/js/2.06695034.chunk.js.LICENSE.txt": "/static/js/2.06695034.chunk.js.LICENSE.txt",
@@ -16,7 +16,7 @@
     "static/media/BandSite.png": "/static/media/BandSite.61155019.png",
     "static/media/CoffeeShop.png": "/static/media/CoffeeShop.76c45c65.png",
     "static/media/TravelSite.png": "/static/media/TravelSite.d60add35.png",
-    "static/media/anton-shtipliyski-resume.pdf": "/static/media/anton-shtipliyski-resume.0f770593.pdf",
+    "static/media/anton-shtipliyski-resume.pdf": "/static/media/anton-shtipliyski-resume.e2973567.pdf",
     "static/media/bcblack.mp4": "/static/media/bcblack.bfef1d6d.mp4",
     "static/media/brainFlix.png": "/static/media/brainFlix.8db137f6.png",
     "static/media/firebase-orange.svg": "/static/media/firebase-orange.edc987a9.svg",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.04cd0a50.js",
     "static/js/2.06695034.chunk.js",
     "static/css/main.f9393854.chunk.css",
-    "static/js/main.38c9e831.chunk.js"
+    "static/js/main.33324ea5.chunk.js"
   ]
 }

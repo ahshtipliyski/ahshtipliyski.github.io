@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d646953c277cbbe26bf9da66df252101",
+    "revision": "81cd1ef7acfddb0d9d77d85afd4ecd9e",
     "url": "/index.html"
   },
   {
-    "revision": "4883a3111c27f3dd88d0",
+    "revision": "db9e8eebe25b2c7884bb",
     "url": "/static/css/main.f9393854.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.06695034.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4883a3111c27f3dd88d0",
-    "url": "/static/js/main.38c9e831.chunk.js"
+    "revision": "db9e8eebe25b2c7884bb",
+    "url": "/static/js/main.33324ea5.chunk.js"
   },
   {
     "revision": "7b1dc6f22980c96abae2",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/TravelSite.d60add35.png"
   },
   {
-    "revision": "0f7705932f4428bd221bd40910c5b820",
-    "url": "/static/media/anton-shtipliyski-resume.0f770593.pdf"
+    "revision": "e29735674533eecb3719dcdbb0eabec7",
+    "url": "/static/media/anton-shtipliyski-resume.e2973567.pdf"
   },
   {
     "revision": "bfef1d6d956d796fe783ebf50dfb7a89",
