@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5f3bd2033b568f35d829ae12711ce9b",
+    "revision": "3baa5aa01689e799b62472591df19583",
     "url": "/index.html"
   },
   {
-    "revision": "471d200d190983bf4a1f",
+    "revision": "93b7838d1da8b587fcd8",
     "url": "/static/css/main.f9393854.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.542e7d7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "471d200d190983bf4a1f",
-    "url": "/static/js/main.94fa8514.chunk.js"
+    "revision": "93b7838d1da8b587fcd8",
+    "url": "/static/js/main.a5a1c192.chunk.js"
   },
   {
     "revision": "7b1dc6f22980c96abae2",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/TravelSite.d60add35.png"
   },
   {
-    "revision": "952d988276fe691526cc0d068dc73de3",
-    "url": "/static/media/amazon.952d9882.png"
+    "revision": "549ed7c96ade5506b943207ff6c85b5d",
+    "url": "/static/media/amazon.549ed7c9.png"
   },
   {
     "revision": "e29735674533eecb3719dcdbb0eabec7",
