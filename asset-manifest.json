@@ -1,35 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b6fd683.chunk.css",
-    "main.js": "/static/js/main.88c31269.chunk.js",
-    "main.js.map": "/static/js/main.88c31269.chunk.js.map",
+    "main.css": "/static/css/main.204f6cb1.chunk.css",
+    "main.js": "/static/js/main.cb198cc4.chunk.js",
+    "main.js.map": "/static/js/main.cb198cc4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.04cd0a50.js",
     "runtime-main.js.map": "/static/js/runtime-main.04cd0a50.js.map",
-    "static/js/2.57e3f7ea.chunk.js": "/static/js/2.57e3f7ea.chunk.js",
-    "static/js/2.57e3f7ea.chunk.js.map": "/static/js/2.57e3f7ea.chunk.js.map",
+    "static/js/2.20e35ff5.chunk.js": "/static/js/2.20e35ff5.chunk.js",
+    "static/js/2.20e35ff5.chunk.js.map": "/static/js/2.20e35ff5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.88b637cb3d656361a0d488feb08ab99c.js": "/precache-manifest.88b637cb3d656361a0d488feb08ab99c.js",
+    "precache-manifest.8710f679b3425b0f3936c030490b0446.js": "/precache-manifest.8710f679b3425b0f3936c030490b0446.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3b6fd683.chunk.css.map": "/static/css/main.3b6fd683.chunk.css.map",
-    "static/js/2.57e3f7ea.chunk.js.LICENSE.txt": "/static/js/2.57e3f7ea.chunk.js.LICENSE.txt",
+    "static/css/main.204f6cb1.chunk.css.map": "/static/css/main.204f6cb1.chunk.css.map",
+    "static/js/2.20e35ff5.chunk.js.LICENSE.txt": "/static/js/2.20e35ff5.chunk.js.LICENSE.txt",
     "static/media/Contact.scss": "/static/media/AvenirNextLTPro-Regular.67016125.otf",
-    "static/media/BandSite.png": "/static/media/BandSite.61155019.png",
-    "static/media/CoffeeShop.png": "/static/media/CoffeeShop.76c45c65.png",
-    "static/media/TravelSite.png": "/static/media/TravelSite.d60add35.png",
-    "static/media/amazon.png": "/static/media/amazon.549ed7c9.png",
-    "static/media/anton_shtipliyski_resume.pdf": "/static/media/anton_shtipliyski_resume.3b2247f6.pdf",
+    "static/media/anton_shtipliyski_resume.pdf": "/static/media/anton_shtipliyski_resume.c1ab6bfe.pdf",
     "static/media/bcblack.mp4": "/static/media/bcblack.bfef1d6d.mp4",
-    "static/media/belejki.png": "/static/media/belejki.8424de69.png",
-    "static/media/brainFlix.png": "/static/media/brainFlix.8db137f6.png",
     "static/media/firebase-orange.svg": "/static/media/firebase-orange.edc987a9.svg",
-    "static/media/firebase.svg": "/static/media/firebase.f9a6f1ca.svg",
-    "static/media/inStock.png": "/static/media/inStock.ee916ef1.png",
-    "static/media/nutrition-planner.png": "/static/media/nutrition-planner.03d862ba.png"
+    "static/media/firebase.svg": "/static/media/firebase.f9a6f1ca.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.04cd0a50.js",
-    "static/js/2.57e3f7ea.chunk.js",
-    "static/css/main.3b6fd683.chunk.css",
-    "static/js/main.88c31269.chunk.js"
+    "static/js/2.20e35ff5.chunk.js",
+    "static/css/main.204f6cb1.chunk.css",
+    "static/js/main.cb198cc4.chunk.js"
   ]
 }
