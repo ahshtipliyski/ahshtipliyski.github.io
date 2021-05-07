@@ -1,27 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.204f6cb1.chunk.css",
-    "main.js": "/static/js/main.cb198cc4.chunk.js",
-    "main.js.map": "/static/js/main.cb198cc4.chunk.js.map",
+    "main.css": "/static/css/main.08c16bd6.chunk.css",
+    "main.js": "/static/js/main.d19c044d.chunk.js",
+    "main.js.map": "/static/js/main.d19c044d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.04cd0a50.js",
     "runtime-main.js.map": "/static/js/runtime-main.04cd0a50.js.map",
-    "static/js/2.20e35ff5.chunk.js": "/static/js/2.20e35ff5.chunk.js",
-    "static/js/2.20e35ff5.chunk.js.map": "/static/js/2.20e35ff5.chunk.js.map",
+    "static/js/2.e2d1aa82.chunk.js": "/static/js/2.e2d1aa82.chunk.js",
+    "static/js/2.e2d1aa82.chunk.js.map": "/static/js/2.e2d1aa82.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8710f679b3425b0f3936c030490b0446.js": "/precache-manifest.8710f679b3425b0f3936c030490b0446.js",
+    "precache-manifest.624e403339a1cacf5a856f1eae2da2c2.js": "/precache-manifest.624e403339a1cacf5a856f1eae2da2c2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.204f6cb1.chunk.css.map": "/static/css/main.204f6cb1.chunk.css.map",
-    "static/js/2.20e35ff5.chunk.js.LICENSE.txt": "/static/js/2.20e35ff5.chunk.js.LICENSE.txt",
+    "static/css/main.08c16bd6.chunk.css.map": "/static/css/main.08c16bd6.chunk.css.map",
+    "static/js/2.e2d1aa82.chunk.js.LICENSE.txt": "/static/js/2.e2d1aa82.chunk.js.LICENSE.txt",
     "static/media/Contact.scss": "/static/media/AvenirNextLTPro-Regular.67016125.otf",
+    "static/media/BandSite.png": "/static/media/BandSite.d6385e7b.png",
+    "static/media/CoffeeShop.png": "/static/media/CoffeeShop.d021189e.png",
+    "static/media/TravelSite.png": "/static/media/TravelSite.c43209f9.png",
+    "static/media/akeevaCo.png": "/static/media/akeevaCo.ae0b884e.png",
+    "static/media/amazon.png": "/static/media/amazon.0a84d7ca.png",
     "static/media/anton_shtipliyski_resume.pdf": "/static/media/anton_shtipliyski_resume.c1ab6bfe.pdf",
     "static/media/bcblack.mp4": "/static/media/bcblack.bfef1d6d.mp4",
+    "static/media/belejki.png": "/static/media/belejki.3c08cc32.png",
+    "static/media/brainFlix.png": "/static/media/brainFlix.ca8a8deb.png",
     "static/media/firebase-orange.svg": "/static/media/firebase-orange.edc987a9.svg",
-    "static/media/firebase.svg": "/static/media/firebase.f9a6f1ca.svg"
+    "static/media/firebase.svg": "/static/media/firebase.f9a6f1ca.svg",
+    "static/media/inStock.png": "/static/media/inStock.1a8f1d56.png",
+    "static/media/nutrition-planner.png": "/static/media/nutrition-planner.e21d1e6c.png",
+    "static/media/saleFish.png": "/static/media/saleFish.e59bc582.png"
   },
   "entrypoints": [
     "static/js/runtime-main.04cd0a50.js",
-    "static/js/2.20e35ff5.chunk.js",
-    "static/css/main.204f6cb1.chunk.css",
-    "static/js/main.cb198cc4.chunk.js"
+    "static/js/2.e2d1aa82.chunk.js",
+    "static/css/main.08c16bd6.chunk.css",
+    "static/js/main.d19c044d.chunk.js"
   ]
 }
